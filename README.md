@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="banner.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/ntjoar/ntjoar/blob/main/banner.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Software developer currently exploring automation testing and methods to improve the current design.
