@@ -14,7 +14,7 @@ I am a Software developer currently exploring automation testing and methods to 
  
  :books: I want to learn Cloud development :cloud:
 
- 💬 Come reach out to me at ntjoar@alumni.ucla.edu.
+ 💬 Come reach out to me at nathan.tjoar@gmail.com.
 
 
 ---
