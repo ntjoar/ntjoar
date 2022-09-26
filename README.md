@@ -8,9 +8,9 @@
 
 I am a Software developer currently exploring automation testing and methods to improve the current design.
  
- 🔭 I am currently supporting [UCLABookstack] as a developer.
+ 🔭 I am currently working as an Automation Framework Developer.  
  
- 🌱 I’m currently learning test automation scripting and framework development.
+ 🌱 I’m currently learning Deep Learning, Containers, and CI/CD Pipelines.
  
  :books: I want to learn Cloud development :cloud:
 
